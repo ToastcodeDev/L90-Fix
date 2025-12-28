@@ -75,7 +75,7 @@ if "!OPT!"=="2" (
 
 cls
 if /i "!LANG!"=="ES" (
-    echo Idioma cambiado exitosamente a: Espanol
+    echo Idioma cambiado exitosamente!
 ) else (
     echo Language successfully changed to: English
 )
