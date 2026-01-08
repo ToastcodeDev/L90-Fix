@@ -1,12 +1,18 @@
 # L90 CPU Fix
 
+<div align="center" style="display: flex; justify-content: center; gap: 16px;">
+  <img src="src/1.png" width="30%" />
+  <img src="src/2.png" width="30%" />
+</div>
+
+
 <div align="center">
+
+**CPU optimization tool for Frostbite Engine games**
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-**CPU optimization tool for Frostbite Engine games**
 
 [Download](https://github.com/ToastcodeDev/NFS_Heat_CPU_Load_FIX/releases)
 
